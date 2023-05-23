@@ -1,2 +1,5 @@
 In this repository you can find the code for the ESP32 used in my second semester project at Aalborg University Esbjerg.
+
 In this project we designed and manufactured a Battery Management System to test our galvanically isolated flyback converter design.
+
+You may find the main file at src/main.cpp
